@@ -37,11 +37,8 @@ endmodule
 # Truth table:
 ![image](https://github.com/harshulaxman/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145686689/0a39ae77-ed1f-43d3-8cad-01d18ed41c4a)
 
-# timimg diagram:
-![image](https://github.com/harshulaxman/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145686689/e48515dd-d22a-42e2-93a2-0af633ec6f4f)
-
-
-
+# Timing diagram:
+![image](https://github.com/harshulaxman/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145686689/04af724f-6cd8-452c-b439-d41f3e987943)
 
 
 # Full Adder
